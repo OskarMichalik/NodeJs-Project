@@ -1,4 +1,4 @@
--- This is an updated NodeJs version of this project <br/>
+-- This is an updated NodeJs version of my previous project <br/>
 <br/>
 https://github.com/OskarMichalik/blockchain-project<br/>
 <br/>
