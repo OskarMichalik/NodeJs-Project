@@ -55,4 +55,4 @@ Map is the first thing you see when you enter the game. On the map you can find 
   <br/>
   Here, you will find your score ( how many floors you have cleared, how much gold have you gathered, and how powerful you were ).<br/>
   After clicking "try again", you will have a fresh start.<br/>
-  <br/>
+<br/>
