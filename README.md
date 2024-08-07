@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=hFhwxojVv5Q<br/>
 <br/>
   Enter an unique login, set a password, and submit.<br/>
   <br/>
-  **!! This is a mock signup. For better security, we should consider using Google login or a similar service. !!**<br/>
 <br/>
 -- Login <br/>
 <br/>
