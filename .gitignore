@@ -10,6 +10,9 @@
 
 # production
 /build
+*/.env
+*.env
+*/nodemon.json
 
 # misc
 .DS_Store
