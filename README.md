@@ -2,6 +2,10 @@
 <br/>
 https://github.com/OskarMichalik/blockchain-project<br/>
 <br/>
+-- How to start it<br/>
+<br/>
+You should add nodemon.json file, with your SERVER_NAME and SERVER_PASSWORD for mongoose, to backEnd<br/> 
+<br/> 
 -- Video<br/>
 <br/>
 https://www.youtube.com/watch?v=hFhwxojVv5Q<br/>
