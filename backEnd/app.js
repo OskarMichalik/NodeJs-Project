@@ -2,6 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 const playerRoutes = require("./routes/player");
+const fs = require("fs");
 
 const app = express();
 
@@ -22,7 +23,7 @@ app.use("/player", playerRoutes);
 
 mongoose
   .connect(
-    "mongodb+srv://oskar:EpsheKtqL8vN4DyA@practice.4zdvjq5.mongodb.net/game?retryWrites=true&w=majority&appName=practice"
+    `mongodb+srv://${process.env.SERVER_NAME}:${process.env.SERVER_PASSWORD}@practice.4zdvjq5.mongodb.net/game?retryWrites=true&w=majority&appName=practice`
   )
   .then((result) => {
     app.listen(8080);
