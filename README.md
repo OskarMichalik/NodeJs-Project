@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=hFhwxojVv5Q<br/>
 <br/>
   Enter an unique login, set a password, and submit.<br/>
   <br/>
-<br/>
 -- Login <br/>
 <br/>
   Enter the submitted login and password and launch into the game.<br/>
